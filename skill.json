@@ -1,0 +1,13 @@
+{
+  "name": "genpark-consensus-admm-distributed-trajectory-skill",
+  "version": "1.0.0",
+  "description": "Alternating Direction Method of Multipliers (ADMM) consensus coordinator solving decentralized multi-agent rendezvous and velocity matching.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "consensus-admm",
+    "distributed-optimization",
+    "trajectory-coordination",
+    "multi-robot"
+  ]
+}
